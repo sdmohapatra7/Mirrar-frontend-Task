@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mirrar-frontend-Task/static/css/main.4cac8748.css",
+    "main.js": "/Mirrar-frontend-Task/static/js/main.3e6b2e04.js",
+    "index.html": "/Mirrar-frontend-Task/index.html",
+    "main.4cac8748.css.map": "/Mirrar-frontend-Task/static/css/main.4cac8748.css.map",
+    "main.3e6b2e04.js.map": "/Mirrar-frontend-Task/static/js/main.3e6b2e04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cac8748.css",
+    "static/js/main.3e6b2e04.js"
+  ]
+}
